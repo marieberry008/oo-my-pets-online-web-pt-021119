@@ -1,7 +1,8 @@
 class Owner
   attr_accessor :pets
   
-  def initialize()
+  def initialize(name)
+    
   
   def 
 Owner
