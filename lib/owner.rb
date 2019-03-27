@@ -2,7 +2,11 @@ class Owner
   attr_accessor :pets
   
   def initialize(name)
-    
+    @name = name
+    @pets = pets
+  end
+  
+  def 
   
   def 
 Owner
