@@ -1,14 +1,4 @@
 class Owner
-  attr_accessor :pets
-  
-  def initialize(name)
-    @name = name
-    @pets = pets
-  end
-  
-  require 'pry'
-
-class Owner
   attr_accessor :name, :pets
   attr_reader :species
   
